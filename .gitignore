@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data + checkpoints (generated at runtime)
+data/
+*.parquet
+
+# Env
+.env
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
